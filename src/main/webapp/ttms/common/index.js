@@ -2,6 +2,7 @@ function doGetUserMenus(){
 	//到controller请求菜单
 	var url = 'doFindUserMenus.do';
 	$.getJSON(url,function(result){
+		console.log(result)
 		if(result.state==1){
 		  doSetMenus(result.data);
 		}else{

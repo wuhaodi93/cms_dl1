@@ -12,7 +12,7 @@
 		<div class="collapse navbar-collapse" id="example-navbar-collapse">
 			<ul class="nav navbar-nav">
 				<li class="active"><a class="icon-bar" href="#">旅游管理系统</a></li>
-				<li class="dropdown"><a href="#" class="dropdown-toggle"
+			<%--	<li class="dropdown"><a href="#" class="dropdown-toggle"
 					data-toggle="dropdown" role="button" aria-haspopup="true"
 					aria-expanded="false">产品管理 <span class="caret"></span></a>
 					<ul class="dropdown-menu">
@@ -26,7 +26,7 @@
 						<li><a id="load-product-id">产品信息</a></li>
 					   <li role="separator" class="divider"></li>
 						<li><a id="load-attachement-id">产品附件</a></li>
-					</ul></li>
+					</ul></li>--%>
 				<li class="dropdown"><a href="#" class="dropdown-toggle"
 					data-toggle="dropdown" role="button" aria-haspopup="true"
 					aria-expanded="false">系统管理 <span class="caret"></span></a>

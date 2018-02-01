@@ -6,7 +6,7 @@
 	<!-- 页面导航 -->
 	<div class="page-header">
 		<div class="page-title" style="padding-bottom: 5px">
-			<h3>旅游管理系统</h3>
+			<h3>苹果贷业务管理系统</h3>
 			<ol class="breadcrumb">
 				<li>系统管理</li>
 				<li>菜单管理</li>

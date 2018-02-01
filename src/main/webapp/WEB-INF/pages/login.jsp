@@ -6,7 +6,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>TTMS旅游管理系统</title>
+  <title>苹果贷业务管理系统</title>
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <link rel="stylesheet" href="${basePath}/bootstrap/css/bootstrap.min.css" />
   <link rel="stylesheet" href="${basePath}/static/css/AdminLTE.min.css">

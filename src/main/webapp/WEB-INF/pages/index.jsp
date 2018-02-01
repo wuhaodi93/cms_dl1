@@ -7,7 +7,7 @@
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
 <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
 <META HTTP-EQUIV="Expires" CONTENT="0">
-<title>Insert title here</title>
+<title>苹果贷业务管理系统</title>
 
 <link rel="stylesheet" href="${basePath}/bootstrap/css/bootstrap.min.css" />
 <link rel="stylesheet" href="${basePath}/bootstrap/css/bootstrap-datepicker.min.css" />

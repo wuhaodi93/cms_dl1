@@ -11,7 +11,7 @@
 		</div>
 		<div class="collapse navbar-collapse" id="example-navbar-collapse">
 			<ul class="nav navbar-nav" id="menu-nav">
-				<li class="active"><a class="icon-bar" href="#">旅游管理系统</a></li>
+				<li class="active"><a class="icon-bar" href="#">苹果贷业务管理系统</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<li><a>欢迎您,${currentUser.username}</a></li>
